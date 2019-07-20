@@ -1,4 +1,3 @@
 import React from "react"
 
-export default () => <div><h1>Hello world</h1>
-    <h3> Hi Jack!!!!!!</h3></div>
+export default () => <div>Hello world and universe and testing!</div>
